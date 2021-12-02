@@ -1,4 +1,4 @@
-#  Lección Git
+# Lección Git
 
 ## Version Control System
 
@@ -6,7 +6,7 @@
 
 Si eres diseñador gráfico o web, y quieres mantener cada versión de una imagen o diseño (algo que sin duda quieres), un sistema de control de versiones (Version Control System o VCS en inglés) es una elección muy sabia. Te permite revertir archivos a un estado anterior, revertir el proyecto entero a un estado anterior, comparar cambios a lo largo del tiempo, ver quién modificó por última vez algo que puede estar causando un problema, quién introdujo un error y cuándo, y mucho más. Usar un VCS también significa generalmente que si rompes o pierdes archivos, puedes recuperarlos fácilmente.
 
-### Hay varios tipos de sistemas de versionado, estos pueden ser:
+### Hay varios tipos de sistemas de versionado, estos pueden ser
 
 ### Locales
 
@@ -68,6 +68,7 @@ Vamos a distinguir dos directorios, primero el _directorio de git_: que es donde
 ### Estados
 
 Git tiene tres estados principales en los que se pueden encontrar tus archivos:
+
 * __committed__: significa que los datos están almacenados de manera segura en tu base de datos local.
 * __modified__: significa que has modificado el archivo pero todavía no lo has commiteado a tu base de datos.
 * __staged__: significa que has marcado un archivo modificado en su versión actual para que vaya en tu próxima commiteada.
@@ -88,10 +89,9 @@ Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 
 [Github.com](https://github.com) es una red para almacenar tus repositorios, esencialmente es un repositorio de repositorios. Es uno de los tantos disponibles en internet, y el más popular. Git != Github, aunque funcionen muy bien juntos. Github es un lugar donde puedes compartir tu código o encontrar otros proyectos. También actúa como portfolio para cualquier código en el que hayas trabajado. Si planeas ser un desarrollador deberías tener cuenta en Github. Usaremos Github extensivamente durante tu tiempo en Henry.
 
-## Lectura recomendada:
+## Lectura recomendada
 
 * [Git: sitio oficial](https://git-scm.com/)
 * [Github: tutorial oficial](https://try.github.io/levels/1/challenges/1)
 * [Git: tutorial oficial](https://git-scm.com/docs/gittutorial)
 * [Terminal turorial](https://www.davidbaumgold.com/tutorials/command-line/)
-
