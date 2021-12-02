@@ -1,34 +1,20 @@
 agregar el representado en la tabla de sumario
 
----------------------------------
-
 en sumario
 necesitamos la opción de ver más y un botón de editar los campos completados.
 
 Ver más en formato texto
 Botón en formato formulario para editar
 
-----------------------------
-
-
-
 localhost:8080/sumario/denuncia/formulario/(denunciante/acusado)
 
 En el FormPersona no se puede poner una fecha de nacimiento, aunque la toma, da la impresión de que la rechaza.
 
-------------------------------
-
 Quitar lapicito y tachito
-
-------------------------------
 
 Ordenar vista Total diligencias / total archivos
 
-------------------------------
-
 Línea 374
-
-------------------------------
 
 Sumario
 
